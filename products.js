@@ -1,5 +1,5 @@
 const products = [
-  { name: "Sample Product", price: "₹999", image: "images/product1.jpg" }
+  { name: "Sample Product", price: "₹999", image: "product1.jpg" }
 ];
 
 const container = document.getElementById("product-list");
